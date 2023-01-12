@@ -21,7 +21,7 @@ const Form = () => {
       </div>
       <StCard
         onClick={() => {
-          navigate("/TodoList");
+          navigate("/TodoLists");
         }}
       >
         <div>TodoList</div>
